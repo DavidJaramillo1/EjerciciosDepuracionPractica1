@@ -13,7 +13,14 @@ public class Ejemplo2While {
         while (contador< n){
                System.out.println(" * ");
                contador++;
+
+
         }
+        public static int pedirNumero() {
+    	Scanner sc = new Scanner(System.in);
+    	System.out.println("Introduce un numero: ");
+    	return sc.nextInt();
+    }
     }
 }
 
