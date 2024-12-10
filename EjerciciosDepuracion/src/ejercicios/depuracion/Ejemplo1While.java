@@ -19,7 +19,7 @@ public Ejemplo1While() {
 
 this.suma = 0;
 
-this.num = 0;
+this.numero = 0;
 
 }
     }
