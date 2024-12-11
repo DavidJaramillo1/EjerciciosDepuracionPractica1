@@ -13,15 +13,19 @@ public class Ejemplo1While {
                num = sc.nextInt();
         }
         System.out.println("La suma es: " + suma );
-        private int sumix, num;
 
 public Ejemplo1While() {
 
-this.sumix = 0;
+        private int sumar, numero;
+
+
+
+this.sumar = 0;
+
 
 this.num = 0;
 
-}
-    }
+
+    
 }
 
